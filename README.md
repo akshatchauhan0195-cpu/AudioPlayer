@@ -111,4 +111,3 @@ Songs downloaded from Spotify are encrypted and only play inside the Spotify app
 - Add volume control
 - Shuffle and repeat modes
 - Support MP3 using a library such as JLayer
-- Show song length and a progress display
